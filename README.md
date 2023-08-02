@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @affanraj78
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<html>
 
-<!---
-affanraj78/affanraj78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+   <head>
+          <title>This is my first HTML page</title>
+   </head>
+
+   <body> 
+AFFAN NOTTY 
+   </body>
+
+</html>
